@@ -1,0 +1,41 @@
+ChatBot
+Chatbots are applications trained to mimic written or spoken human speech to simulate human conversation and interactions by understanding and answering users inputs.
+
+*Natural Language Understanding(NLU) Natural-language understanding is a branch of natural-language processing(NLP) in artificial intelligence that deals with machines reading comprehension thus understanding the intents of users.
+
+*Natural Language Processing(NLP) This is a branch of artificial intelligence that helps computers understand,manipulate and interpret human language.
+
+The Natural Language Toolkit(NLTK), is a collection of libraries and programs for symbolic and statistical natural language processing
+
+
+                                                                 Types of chatbots
+                                                                 
+1) Button Bots These bots have been programmed with predefined questions and answers in the form of buttons for the user to select.
+
+2) Conversational Chatbots: These bots are able to accept inputs from users and give relevant outputs.Types of conversational bots are;
+
+* Rule-Based chatbots - These bots are program with paired question-answer flow keywords.Any question outside of the scope of the chatbot cannot be answered.
+
+* Intent-Based AI Chatbots - These bots can actually understand the context of the text and provide solutions based on the intents of the user by combining the power of NLU and NLP.
+
+* Autonomous AI chatbots - These bots learn from data and construct its own form of questions and answers based on experiences from the data.
+
+Examples of Chatbots :
+
+1) Swelly - Facebook messenger chatbot 
+2) ebay bot -e-commerce chatbot etc
+
+Examples of Chatbot builders :
+
+1) ManyChat 
+2) Tidio 
+3) Ana 
+4) Chatfuel 
+5) IBM Watson Assistant 
+6) BotSociety
+
+Uses of Chatbots
+
+1) Assist in bookings 
+2) Assist in making queries 
+3) Assist in making orders
